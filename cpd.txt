@@ -1,18 +1,49 @@
-CPD - Continuing Professional Development
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 1.4.1</title>
+</head>
+<body>
+
+  <!-- YOUR CODE GOES BELOW HERE -->
+  <h1>CPD - Continuing Professional Development</h1>
 
 
-Date of CPD activity
-13/01/2021
+  <h2>Date of CPD activity</h2>
+  <h2>11/01/2021- 15/01/2021</h2>
 
-CPD activity
-Introduction to Web Development
+  <h3>CPD activity</h3>
+  <h3>Introduction to Web Development</h3>
 
+  <h3>What have I learnt?</h3>
+  <p>I've learnt about the distinction front end and back end web development, and the programming langugages relevant to these.
+  I've learnt about the relationships between the web, the internet, clients and servers.
+  I've learnt about using Github and Visual Studio Code.
+  HTML elements h1, h2, h3 and p.</p>
 
-What have I learnt?
-I've learnt about the distinction front end and back end web development, and the programming langugages relevant to these.
-I've learnt about the relationships between the web, the internet, clients and servers.
-I've learnt about using Github and Visual Studio Code.
+  <h3>How did I use this in practice?</h3>
+  <p>I added HTML to a task in Module 1 and pushed the changes to the remote version on Github.</p>
 
-How did I use this in practice?
+  <h3>What did I find hard?</h3>
 
-What did I find hard?
+  <h2>Date of CPD activity</h2>
+  <h2>18/01/2021</h2>
+
+  <h3>CPD activity</h3>
+  <h3>HTML and CSS</h3>
+
+  <h3>What have I learnt?</h3>
+  <p>I learnt about the distinction between HTML and CSS, and how they are used to create a webpage</p>
+  <p>I learnt basic HTML tags: p, h1-6, em, strong.</p>
+  <p>I learnt how to create links with anchor tags, using title and target attributes. </p>
+
+  <h3>How did I use this in practice?</h3>
+    <p>I completed tasks using the different HTML tags to give structure to the content of a web page.</p>
+    <p>I created links with absolute paths to open an external website and links to open an email.</p>
+  <h3>What did I find hard?</h3>
+  <!-- YOUR CODE GOES ABOVE HERE -->
+  
+</body>
+</html>
