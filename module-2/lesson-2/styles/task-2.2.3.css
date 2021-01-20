@@ -1,3 +1,15 @@
 /* Your code goes below here */
-
+body{
+    font-family: 'Fraunces', serif;
+}
+p{
+    font-weight:400;
+}
+h1, h2, h3{
+    color:#dd00dd;
+    font-weight:700;
+}
+h1{
+    font-style:italic;
+}
 /* Your code goes above here */
