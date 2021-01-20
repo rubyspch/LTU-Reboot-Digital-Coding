@@ -1,3 +1,15 @@
 /* Your code goes below here */
-
+p{
+    background-color:#ffA500;
+    font-size:20px;
+}
+ol, ul{
+    background-color:#ff4500;
+    font-size:16px;
+}
+a{
+    background-color:#ffdd00;
+    font-size:24px;
+    border:2px solid #2600ff;
+}
 /* Your code goes above here */
