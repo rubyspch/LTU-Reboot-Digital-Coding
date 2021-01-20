@@ -1,3 +1,13 @@
 /* Your code goes below here */
-
+/*position selector practice*/
+p strong{
+    color:red;
+}
+h1 strong{
+    color:blue;
+}
+p em{
+    color:pink;
+    font-size:40px;
+}
 /* Your code goes above here */
