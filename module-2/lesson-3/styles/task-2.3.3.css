@@ -1,0 +1,13 @@
+main a:link{
+    font-size:30px;
+}
+a:hover {
+    color:#df0;
+    font-size:30px;
+}
+a:focus{
+    font-weight:bold;
+}
+a:active{
+    color:#0f0;
+}
