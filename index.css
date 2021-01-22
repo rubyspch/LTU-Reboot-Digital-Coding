@@ -1,0 +1,27 @@
+:root{
+    --text-border-color:rgb(0,0,0);
+    --box-bg-color:rgb(255,255,255);
+}
+body{
+    background-color: rgb(252, 127, 25);
+    color: var(--text-border-color);
+    text-align:center;
+}
+div {
+    width: 70%;
+    height: 50%;
+    border: 3px solid var(--text-border-color);
+    background-color:var(--box-bg-color);    
+    padding:3px;
+    margin:auto;
+    margin-bottom:3%;
+    margin-top:3%;
+    text-align:center;
+}
+header{
+    position: sticky;
+    top:5px;
+    background-color: var(--box-bg-color);
+    text-align:center;
+    border: 3px solid var(--text-border-color);
+}
