@@ -1,12 +1,15 @@
 .container {
     position: relative;
+    width 500px;
 }
 .container img{
+    position:absolute;
     width:400px;
 }
 .container span {
     position: absolute;
-    bottom: 100px;
     left:180px;
+    top: 400px;
     background-color: white;
+    padding:1%;
 }
